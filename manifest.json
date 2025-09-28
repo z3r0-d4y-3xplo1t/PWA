@@ -1,20 +1,52 @@
 {
-  "name": "Smile Your System",
-  "short_name": "SYS",
-  "start_url": "/",
+  "background_color": "#ffffff",
+  "description": "Discover the latest technology that makes life easier, faster, and more enjoyable! Don&amp;#39;t miss these life-changing innovations.",
+  "dir": "ltr",
   "display": "standalone",
-  "background_color": "#000000",
-  "theme_color": "#00c8ff",
+  "name": "SmileYourSystem – Tech Tutorials, Tools &amp;amp; Scripts",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "SmileYourSystem – Tech Tutorials, Tools &amp;amp; Scripts",
+  "start_url": "/",
+  "theme_color": "#482dff",
   "icons": [
     {
-      "src": "/icons/icon-192.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEg31MuIa565c6YDVhaRleYhJeby_kBMwkr0CTcf27hP0n3b71IPnvFtkVhSIveXiBSMZ56AzX_-s5PqayrsuY7LYwJiX1P2u0acO1kiCjIuPzQ0e3uSsqATTI_2zlbHaJ48e_oZvwwZgBhTjpHJnnKiXeWF2Pwco8UHeZoP-M7bLskRArbe9Td_Ve_B1iI/w1280-h720-p-k-no-nu/twitter-card-image.png",
       "type": "image/png",
-      "sizes": "192x192"
+      "sizes": "1280x720",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1280,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
     },
     {
-      "src": "/icons/icon-512.png",
+      "src": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgXxFjLFkLM3eZsKgzpO8R-f3pQPsb-ica2dzqZ-TpJw-fhOsZMG3fUs6UzvcualJbzE9xoUPtqIAI68pQcy9E2IXSFt8SxYEpcaIln78PEZzj1S-iiDp4aJtwNdkImyH5oEtzuzKUxetnUMMjaJWhi6BTLBkNxQX8tUzsL3Q2hqQq_hBF7_w6z5yUYxws/w1280-h720-p-k-no-nu/open-graph-image.png",
       "type": "image/png",
-      "sizes": "512x512"
+      "sizes": "1280x720",
+      "isSquare": false,
+      "isPng": true,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 1280,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://www.smileyoursystem.site/favicon.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
     }
   ]
 }
